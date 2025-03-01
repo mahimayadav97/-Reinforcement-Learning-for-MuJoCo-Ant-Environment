@@ -111,11 +111,6 @@ The results are compared to those reported by Fujimoto et al. [9]:
 - Python 3.x
 - Libraries: `numpy`, `gymnasium`, `torch`, `tensorflow`, `keras`, `mujoco`
 - CUDA-capable GPU (recommended for SAC and other GPU-accelerated algorithms)
-  
----
-
-## Contact
-For questions or feedback, open an issue in the repository or contact the maintainers directly.
 
 ---
 
@@ -128,7 +123,7 @@ For questions or feedback, open an issue in the repository or contact the mainta
 6. [AI Walkers PPO PyTorch](https://github.com/iamvigneshwars/ai-walkers-ppo-pytorch)
 7. [Fengredrum's PPO PyTorch](https://github.com/fengredrum/ppo-pytorch)
 8. [Lazy Programmer's ES MuJoCo Example](https://github.com/lazyprogrammer/machine_learning_examples/blob/master/rl3/es_mujoco.py)
-9. Scott Fujimoto, Herke van Hoof, and David Meger. Addressing Function Approximation Error in Actor-Critic Methods, October 2018. arXiv:1802.09477 [cs, stat].
+9. Scott Fujimoto, Herke van Hoof, and David Meger. Addressing Function Approximation Error in Actor-Critic Methods, October 2018.
 
 ---
 
