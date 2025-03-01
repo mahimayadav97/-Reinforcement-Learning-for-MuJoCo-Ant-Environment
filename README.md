@@ -1,5 +1,3 @@
-# Reinforcement Learning for MuJoCo Ant v4 Environment
-
 ## Overview
 This repository contains implementations and evaluations of various reinforcement learning (RL) algorithms for controlling a 3D quadruped robot in the MuJoCo Ant v4 environment. The algorithms implemented include **DDPG**, **DDPG with Prioritized Experience Replay (PER)**, **SAC**, **TD3**, **PPO**, and **Evolution Strategies (ES)**. The goal is to optimize the robot's movement and maximize forward travel distance using continuous action spaces. 
 
